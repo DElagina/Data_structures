@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication2.vcxproj, Вонючка!!!.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ConsoleApplication2.cpp
+c:\users\даша\desktop\programs\2_c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(4): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\даша\desktop\programs\2_c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(4): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\даша\desktop\programs\2_c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(5): note: использование предварительно скомпилированного заголовка
+c:\users\даша\desktop\programs\2_c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(732): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+  c:\users\даша\desktop\programs\2_c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(732): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+c:\users\даша\desktop\programs\2_c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(792): warning C4474: "fscanf_s" : для строки формата передано слишком много аргументов
+  c:\users\даша\desktop\programs\2_c\consoleapplication2\consoleapplication2\consoleapplication2.cpp(792): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  ConsoleApplication2.vcxproj -> C:\Users\Даша\Desktop\Programs\2_C\ConsoleApplication2\Debug\Лабочка.exe
