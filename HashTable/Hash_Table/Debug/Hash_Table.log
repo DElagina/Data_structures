@@ -1,0 +1,28 @@
+﻿  Main.cpp
+c:\users\даша\desktop\лекции\3 сем\3_с++\лаба3-таблица\hash_table\idictionary.h(49): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+c:\users\даша\desktop\лекции\3 сем\3_с++\лаба3-таблица\hash_table\generator.h(40): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  c:\users\даша\desktop\лекции\3 сем\3_с++\лаба3-таблица\hash_table\generator.h(39): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\даша\desktop\лекции\3 сем\3_с++\лаба3-таблица\hash_table\main.cpp(211): note: выполняется компиляция ссылки на экземпляр шаблон функции "ArraySequence<int> *Generator<TElement>::RandGenerate(ArraySequence<TElement> *,int,int,int)"
+          with
+          [
+              TElement=int
+          ]
+  c:\users\даша\desktop\лекции\3 сем\3_с++\лаба3-таблица\hash_table\main.cpp(195): note: выполняется компиляция ссылки на экземпляр шаблон класс "Generator<TElement>"
+          with
+          [
+              TElement=int
+          ]
+  c:\users\даша\desktop\лекции\3 сем\3_с++\лаба3-таблица\hash_table\main.cpp(44): note: выполняется компиляция ссылки на экземпляр шаблон функции "int Dialog_Create_Auto<int>(ArraySequence<int> *)"
+c:\users\даша\desktop\лекции\3 сем\3_с++\лаба3-таблица\hash_table\idictionaryseperatechanging.h(43): warning C4101: e: неиспользованная локальная переменная
+  c:\users\даша\desktop\лекции\3 сем\3_с++\лаба3-таблица\hash_table\idictionaryseperatechanging.h(37): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\даша\desktop\лекции\3 сем\3_с++\лаба3-таблица\hash_table\main.cpp(84): note: выполняется компиляция ссылки на экземпляр шаблон класс "IDictionarySeparateChanging<TElement,TElement>"
+          with
+          [
+              TElement=int
+          ]
+  c:\users\даша\desktop\лекции\3 сем\3_с++\лаба3-таблица\hash_table\main.cpp(47): note: выполняется компиляция ссылки на экземпляр шаблон функции "int HashBuild<int>(ArraySequence<int> *)"
+c:\users\даша\desktop\лекции\3 сем\3_с++\лаба3-таблица\hash_table\idictionaryseperatechanging.h(80): warning C4101: e: неиспользованная локальная переменная
+  c:\users\даша\desktop\лекции\3 сем\3_с++\лаба3-таблица\hash_table\idictionaryseperatechanging.h(74): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  Exception.cpp
+  Создание кода...
+  Hash_Table.vcxproj -> C:\Users\Даша\Desktop\Лекции\3 сем\3_С++\Лаба3-Таблица\Hash_Table\Debug\Hash_Table.exe
